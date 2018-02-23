@@ -1,0 +1,6 @@
+[package]
+name = "math_operations"
+version = "0.1.0"
+authors = ["LENOVO-PC\\Suryaprakash <raopisay@gmail.com>"]
+
+[dependencies]
